@@ -1,0 +1,9 @@
+<launch>
+  
+  <node name="iri_human_decision_maker_deformable" pkg="iri_human_decision_maker_deformable" type="iri_human_decision_maker_deformable" output="screen" >
+    <remap from="/iri_human_decision_maker_deformable/interest_points" to="/iri_color_interesting_points_deformable/interest_points" />   
+    <remap from="/pick_place_defo" to="/iri_pickandplace_deformable/pick_place_defo" />
+  </node>
+
+</launch>
+
