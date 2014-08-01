@@ -1,7 +1,7 @@
 iri_human_decision_maker_deformable
 ===================================
 
-Package that allow the interaction between the operator and the robot. Calls iri_color_interesting_points_deformable service and pickandplace_deformable  actionlib
+Package that allow the interaction between the operator and the robot. Calls iri_color_interesting_points_deformable service and iri_pickandplace_deformable actionlib
 
 * IRI - Institut de Robòtica i Informàtica Industrial (CSIC-UPC): www.iri.upc.edu
 
